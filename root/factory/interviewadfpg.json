@@ -1,0 +1,9 @@
+{
+	"name": "interviewadfpg",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "50c0ef1e-4159-4323-8b21-5d9cc5a3f544",
+		"tenantId": "bf744b93-bf76-404b-b4f7-2d85d553323d"
+	}
+}
